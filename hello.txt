@@ -1,4 +1,4 @@
-hello world! 6
+ 6
 hello git! 6
 hello linux! 6
 hello bin! 6
