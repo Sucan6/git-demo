@@ -1,6 +1,0 @@
- 6
-hello git! 6
-hello linux! 6
-hello bin! 6
-main test
-hot-fix test
